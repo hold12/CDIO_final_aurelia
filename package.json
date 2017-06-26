@@ -1,10 +1,10 @@
 {
   "name": "cdio_final_aurelia",
-  "description": "An Aurelia client application.",
+  "description": "An Aurelia client application for CDIO_final_webservices v1.4.6.",
   "version": "0.1.0",
   "repository": {
-    "type": "???",
-    "url": "???"
+    "type": "git",
+    "url": "https://github.com/hold12/CDIO_final/aurelia"
   },
   "license": "MIT",
   "dependencies": {
